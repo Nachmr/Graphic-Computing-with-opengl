@@ -1,0 +1,20 @@
+Este programa tiene dos modos de funcionamiento:
+modo1-Dibujado de un fichero ply
+modo2-Generacion de un cuerpo de revolucion (con respecto al eje Y) a partir de una polilínea descrita en un fichero ply
+
+Modo de uso:
+./prac <plymodo1> <plymodo2> <rotacionesmodo2>
+
+Para cambiar entre un modo y otro se usan las teclas siguientes:
+F1: modo 1
+F2: modo 2
+
+Teclas para el control de visualización:
+1: Modo Puntos
+2: Modo Alambre
+3: Modo Solido
+4: Modo Ajedrez
+
+Teclas para controlar el método de dibujado:
+5: Dibujado con glBegin/glEnd
+6: Dibujado con glDrawElements

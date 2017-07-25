@@ -1,0 +1,5 @@
+Los modos de dibujado se piden en P1_Inicializar de la siguiente forma:
+
+cout << "Indique con las teclas 1 (puntos), 2 (alambre), 3 (solido) o 4 (ajedrez) la forma de dibujado." << endl;
+
+Los ficheros ply se pasan por lineas de comandos.

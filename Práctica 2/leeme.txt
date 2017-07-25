@@ -1,0 +1,14 @@
+En primer lugar, para cambiar de práctica entre la 1 y la 2 pulsamos f1 y f2 respectivamente.
+
+Los modos de dibujado se piden en P1_Inicializar y en P2_Inicializar de la siguiente forma:
+
+"Indique con las teclas 1(puntos), 2(alambre), 3(solido), 4(ajedrez) o 5(normales) la forma de dibujado."
+
+Los argumentos necesarios para ejecutar la práctica son los siguientes:
+
+./prac <Ficherlo PLY P1> <Perfil PLY P2> <numero de rotaciones>
+
+en nuestro caso seria:
+
+./prac galleon.ply botella.ply 40
+ 

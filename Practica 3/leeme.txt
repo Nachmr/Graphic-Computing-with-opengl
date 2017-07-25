@@ -1,0 +1,19 @@
+/*
+leeme.txt
+Práctica 3
+
+	Para la ejecución del programa ('./prac *.ply perfil num_cop.') es necesario especificar en la linea de comandos 
+	tres argumentos de entrada, que serán:
+		- el nombre de un archivo ply (con o sin extensión).
+		- el nombre de un perfil para leer solo vértices.
+		- el número de copias del perfil que desee que se realicen.
+
+	Una vez ejecutado correctamente aparecerá lo siguiente:
+
+	Indique el modo de visualización del objeto: 
+		Pulse '1' para modo 'Ajedrez'. 
+		Pulse '2' para modo 'Alambre'. 
+		Pulse '3' para modo 'Sólido'. 
+		Pulse '4' para modo 'Puntos'.
+		Pulse '5 para modo 'Normales'. 
+		Recuerde que puede cambiar de práctica ( con F1, F2 o F3 ) y el estilo en cualquier momento con dichos números.

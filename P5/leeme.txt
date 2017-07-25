@@ -1,0 +1,24 @@
+Ignacio Martín Requena - 3ºB IG
+
+Práctica 5
+
+	Para la ejecución del programa ('./prac *.ply perfil .') es necesario especificar en la linea de comandos tres argumentos de entrada, que serán:
+		- el nombre de un archivo ply (con o sin extensión).
+		- el nombre de un perfil para leer solo vértices.
+
+
+	Las distintas teclas así como su función son:
+
+		1.Para cambiar de práctica en este caso lo realizamos pulsando la barra espaciadora. De esta forma iremos incrementando en 1 la práctica en la que nos situamos.
+		
+		2. Para dibujar en diferentes modos: 3 (solido), 4 (ajedrez), 2 (lineas), 1 (puntos)
+ 		
+ 		3. PRACTICA 5:
+ 			3.1. Desplazamiento de la camara en modo explorar: AWSD (MAYÚSCULAS)
+ 			
+ 			3.2. Rotar perspectiva: flechas de dirección o manteniendo pulsado el botón derecho del raton
+
+ 			3.3. Detección de pulsación: Boton izquierdo del raton (sin tiempo para implementarlo)
+
+ 			3.4. Cambio tipo de cámara: F1, F2, F3
+
